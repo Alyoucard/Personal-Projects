@@ -1,0 +1,1 @@
+This showcases using for each and while loops along with various c# methods to create a brief menu selection program
