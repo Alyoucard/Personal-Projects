@@ -1,1 +1,0 @@
-This is a small game that uses the console and a text curor that is moved with arrow keys.
